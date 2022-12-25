@@ -30,9 +30,7 @@ Os usuários poderão:
 
 ### Print da solução
 
-![Em construção](./screenshot.jpg) 
-
-- Minha solução para o desafio será mostrada futuramente aqui!
+![Minha solução para o desafio será mostrada futuramente aqui!](./screenshot.jpg) 
 
 ### Links
 
