@@ -1,111 +1,65 @@
-# Frontend Mentor - Product preview card component solution
+# Front-end Mentor - Desafio "Product Preview-card"
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Prévia do design feito em HTML e CSS.](./design/desktop-preview.jpg)
 
-## Table of contents
+Essa é uma solução do: [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Nesse desafio você poderá ver um pouco das minhas skills em HTML e CSS puro! 
+
+## Conteúdos:
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [O desafio](#the-challenge)
+  - [Foto](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Processo de desenvolvimento](#my-process)
+  - [Desenvolvido com](#built-with)
+  - [O que aprendi](#what-i-learned)
+  - [Recursos úteis](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
-### The challenge
+- Nesse desafio, você irá ver minha solução para um challenge do site Front-end Mentor, um desafio para iniciante mas que irá alimentar meus conhecimentos em HTML e CSS, e também nunca é demais completar mais um desafio! Vem comigo.
 
-Users should be able to:
+### O desafio
 
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
+Os usuários poderão:
 
-### Screenshot
+- Desfrutar do design do site independente do dispositivo, seja ele Mobile ou Desktop.
+- Interagir com os hovers animados e focus do site.
 
-![](./screenshot.jpg)
+### Print da solução
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![Em construção](./screenshot.jpg) 
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+- Minha solução para o desafio será mostrada futuramente aqui!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Link da solução: [Em construção](https://your-solution-url.com)
+- Site ao vivo: [Em construção](https://your-live-site-url.com)
 
-## My process
+## Meu processo
 
-### Built with
+- Primeiro irei construir o HTML do meu projeto, mudarei a paleta de cores originalmente usadas no design do desafio e irei criar minha versão do desafio.
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+### Construido com
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Semantic HTML5 markup.
+- CSS custom properties.
+- Flexbox.
+- CSS Grid.
+- Media Query.
 
-### What I learned
+### O que eu aprendi
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Usando esse desafio como aprendizado eu alimentei meu conhecimento em HTML e CSS e aprendi um pouco mais sobre media query e elementos responsivos
 
-To see how you can add code snippets, see below:
+## Autor
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+- Frontend Mentor - [@kronov1](https://www.frontendmentor.io/profile/kronov1)
+- Instagram ( Pessoal ) - [@poison.iivy._](https://www.instagram.com/poison.iivy._/)
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+## Nota
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Sinta-se a vontade para pedir para participar de qualquer desafio que eu tenha feito, para entrar em contato comigo ou para me conhecer!
