@@ -34,6 +34,7 @@ Os usuários poderão:
 ![2743723e-3ba4-49cc-9c40-7e63903e10bd](https://user-images.githubusercontent.com/112631407/209488783-a1022ab6-9432-44e2-bda5-d760934d770d.jpg)
 
 #### Versão mobile:
+![8b843d96-b2ef-451b-8702-91e9b0d58460](https://user-images.githubusercontent.com/112631407/209489343-fe958c8a-db06-446d-ab7c-07a8f3e50b64.jpg)
 
 ### Links
 
