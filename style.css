@@ -134,7 +134,7 @@ button:hover {
         display: flex;
         flex-direction: column;
         height: 40vh;
-        width: 90vw;
+        width: 100vw;
         background-size: cover;
     }
 
