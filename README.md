@@ -58,7 +58,7 @@ Usando esse desafio como aprendizado eu alimentei meu conhecimento em HTML e CSS
 ## Autor
 
 - Frontend Mentor - [@kronov1](https://www.frontendmentor.io/profile/kronov1)
-- Instagram ( Pessoal ) - [@poison.iivy._](https://www.instagram.com/poison.iivy._/)
+- Instagram ( Pessoal ) - [@poison.iivy._]()
 
 ## Nota
 
