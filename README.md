@@ -30,7 +30,10 @@ Os usuários poderão:
 
 ### Print da solução
 
+#### Versão desktop:
 ![2743723e-3ba4-49cc-9c40-7e63903e10bd](https://user-images.githubusercontent.com/112631407/209488783-a1022ab6-9432-44e2-bda5-d760934d770d.jpg)
+
+#### Versão mobile:
 
 ### Links
 
