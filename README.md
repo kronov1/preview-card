@@ -30,7 +30,7 @@ Os usuários poderão:
 
 ### Print da solução
 
-![Minha solução para o desafio será mostrada futuramente aqui!](./screenshot.jpg) 
+![Minha solução para o desafio será mostrada futuramente aqui!](.![image](https://user-images.githubusercontent.com/112631407/209488548-c9bba3ff-1298-4185-b6ba-aeacfd87dec6.png)) 
 
 ### Links
 
