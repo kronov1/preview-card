@@ -165,7 +165,7 @@ button:hover {
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 400px) {
 
     body {
         background-image: url(images/6D5B0723.jpg);
