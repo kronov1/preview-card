@@ -30,7 +30,7 @@ Os usuários poderão:
 
 ### Print da solução
 
-![Minha solução para o desafio será mostrada futuramente aqui!](.!https://user-images.githubusercontent.com/112631407/209488548-c9bba3ff-1298-4185-b6ba-aeacfd87dec6.png)
+<img src="https://github.com/kronov1/preview-card/issues/1#issue-1510491614">
 
 ### Links
 
