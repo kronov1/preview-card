@@ -30,7 +30,7 @@ Os usuários poderão:
 
 ### Print da solução
 
-<img src="https://github.com/kronov1/preview-card/issues/1#issue-1510491614">
+![2743723e-3ba4-49cc-9c40-7e63903e10bd](https://user-images.githubusercontent.com/112631407/209488783-a1022ab6-9432-44e2-bda5-d760934d770d.jpg)
 
 ### Links
 
