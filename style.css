@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100;0,9..144,200;0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,800;0,9..144,900;1,9..144,100;1,9..144,200;1,9..144,300;1,9..144,400;1,9..144,500;1,9..144,600;1,9..144,700;1,9..144,800;1,9..144,900&display=swap');
+
+/*
+font-family: 'Fraunces', serif;
+font-family: 'Montserrat';
+*/
+
+body {
+    background-image: linear-gradient(to right, #476347, #38664f); 
+}
+
+/*Imagem*/
+
+#imagem {
+    width: 300px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+/*Conteudo principal*/
+
+.conteudo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    width: 46%;
+    border-radius: 10px;
+}
+
+/*Card da direita*/
+
+#card-direita {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.logo {
+    letter-spacing: 5px;
+    font-size: 13.2px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+#titulo {
+    font-family: 'Fraunces', serif;
+    line-height: 1.05em;
+    width: 200px;
+}
+
+.descricao {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 1.7em;
+    width: 220px;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: 'Fraunces', serif;
+    color: #3F8068;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+del {
+    font-size: 10.9px;
+    font-family: 'Montserrat';
+}
+
+button {
+    background-color: #3F8068;
+}
+
+button:hover {
+    background-color: #2d5e4b;
+}
+
+#botao {
+    display: flex;
+    justify-content: center;
+}
+
+#btn-add {
+    display: flex;
+    font-family: 'Montserrat';
+    width: 265px;
+    height: 46px;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    outline: none;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+
+#carrinho {
+    margin-right: 9px;
+}
+
+#preco {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 22px;
+    height: 59px;
+    margin-bottom: 13px;
+}
+
+.text {
+    color: rgb(112, 112, 114);
+}
+
+@media (max-width: 420px) {
+
+    body {
+        background-image: url(images/6D5B0723.jpg);
+        background-repeat: no-repeat;
+        background-size: 71vh;
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        height: 40vh;
+        width: 90vw;
+        background-size: cover;
+    }
+
+    header {
+        border-radius: 2px;
+        background-color: rgba(0, 0, 0, 0.404);
+        border-bottom: 3px solid #3F8068;
+        width: fit-content;
+        padding: 10px;
+        padding-bottom: 10px;
+        position: absolute;
+        right: 50vw;
+        top: 43vh;
+    }
+
+    .logo {
+        font-size: 20px;
+        color: #fff;
+    }
+
+    #conteudo-direita {
+        position: absolute;
+        top: 5%;
+    }
+
+    #imagem {
+        opacity: 0;
+    }
+}
