@@ -165,7 +165,7 @@ button:hover {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
 
     body {
         background-image: url(images/6D5B0723.jpg);
@@ -177,7 +177,7 @@ button:hover {
         display: flex;
         flex-direction: column;
         height: 58vh;
-        width: 90vw;
+        width: 70vw;
         background-size: cover;
     }
 
@@ -189,8 +189,126 @@ button:hover {
         padding: 10px;
         padding-bottom: 10px;
         position: absolute;
-        right: 46vw;
+        right: 35vw;
         top: 62vh;
+    }
+
+    .logo {
+        font-size: 16px;
+        color: #fff;
+    }
+
+    #conteudo-direita {
+        position: absolute;
+        top: 5%;
+    }
+
+    #imagem {
+        opacity: 0;
+    }
+
+    #btn-add {
+        display: flex;
+        font-family: 'Montserrat';
+        width: 210px;
+        height: 44px;
+        border-radius: 10px;
+        border: none;
+        font-size: 15px;
+        font-weight: 600;
+        outline: none;
+        color: #fff;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 400px) {
+
+    body {
+        background-image: url(images/6D5B0723.jpg);
+        background-repeat: no-repeat;
+        background-size: 71vh;
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        height: 53vh;
+        width: 78vw;
+        background-size: cover;
+    }
+
+    header {
+        border-radius: 2px;
+        background-color: rgba(0, 0, 0, 0.404);
+        border-bottom: 3px solid #3F8068;
+        width: fit-content;
+        padding: 10px;
+        padding-bottom: 10px;
+        position: absolute;
+        right: 39vw;
+        top: 56vh;
+    }
+
+    .logo {
+        font-size: 16px;
+        color: #fff;
+    }
+
+    #conteudo-direita {
+        position: absolute;
+        top: 5%;
+    }
+
+    #imagem {
+        opacity: 0;
+    }
+
+    #btn-add {
+        display: flex;
+        font-family: 'Montserrat';
+        width: 210px;
+        height: 44px;
+        border-radius: 10px;
+        border: none;
+        font-size: 15px;
+        font-weight: 600;
+        outline: none;
+        color: #fff;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 250px) {
+
+    
+
+    body {
+        background-image: url(images/6D5B0723.jpg);
+        background-repeat: no-repeat;
+        background-size: 100vh;
+    }
+
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        height: 53vh;
+        width: 120vw;
+        background-size: cover;
+    }
+
+    header {
+        border-radius: 2px;
+        background-color: rgba(0, 0, 0, 0.404);
+        border-bottom: 3px solid #3F8068;
+        width: fit-content;
+        padding: 10px;
+        padding-bottom: 10px;
+        position: absolute;
+        right: 28vw;
+        top: 56vh;
     }
 
     .logo {
